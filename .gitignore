@@ -154,3 +154,4 @@ cython_debug/
 ARCHIVE
 cif_files
 fasta_files
+uniprot_files
