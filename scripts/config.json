@@ -1,0 +1,11 @@
+{
+    "input": "D:\\Coding\\Jupyter Notebook\\Lagunin\\UniProt_structures_parser\\data\\resolution_1A_4aa.csv",
+    "output": "D:\\Coding\\Jupyter Notebook\\Lagunin\\UniProt_structures_parser\\data",
+    "column": "Sequence",
+    "charged": true,
+    "alphabet": "protein",
+    "threads": 8,
+    "separator": ",",
+    "filename": "resolution_1A_4aa",
+    "delete_tmp": true
+  }
