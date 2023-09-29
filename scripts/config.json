@@ -1,11 +1,11 @@
 {
-    "input": "D:\\Coding\\Jupyter Notebook\\Lagunin\\UniProt_structures_parser\\data\\resolution_1A_4aa.csv",
-    "output": "D:\\Coding\\Jupyter Notebook\\Lagunin\\UniProt_structures_parser\\data",
+    "input": "D:\\Coding\\Jupyter Notebook\\Lagunin\\UniProt_structures_parser\\data\\resolution_more_6A_4aa.csv",
+    "output": "D:\\Coding\\Jupyter Notebook\\Lagunin\\UniProt_structures_parser\\data\\sdf_files",
     "column": "Sequence",
-    "charged": true,
+    "charged": false,
     "alphabet": "protein",
     "threads": 8,
     "separator": ",",
-    "filename": "resolution_1A_4aa",
+    "filename": "resolution_more_6A_4aa",
     "delete_tmp": true
   }
